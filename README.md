@@ -54,6 +54,4 @@ Can be run in vs code or terminal.
 
 ## 📷 Screenshots
 
-![Results before PCA algorithm](https://github.com/kieran-woodrow/AVLTree/blob/main/Asset/Screenshot%202024-06-06%20at%2023.19.38.png)
-
-![Results after PCA algorithm](https://github.com/kieran-woodrow/AVLTree/blob/main/Asset/Screenshot%202024-06-06%20at%2023.19.53.png)
+![Results before PCA algorithm](https://github.com/kieran-woodrow/calendar/tree/main/Asset)
