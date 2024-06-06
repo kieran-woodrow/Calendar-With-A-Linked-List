@@ -54,4 +54,4 @@ Can be run in vs code or terminal.
 
 ## 📷 Screenshots
 
-![Results before PCA algorithm](https://github.com/kieran-woodrow/calendar/tree/main/Asset)
+![Results before PCA algorithm](https://github.com/kieran-woodrow/Calendar-With-A-Linked-List/blob/main/Asset/Screenshot%202024-06-06%20at%2023.26.34.png)
